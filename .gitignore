@@ -165,3 +165,8 @@ cython_debug/
 codeql-cli/
 codeql*.zip
 venv/
+"" 
+"*.md" 
+"paper.tex" 
+"tables.tex" 
+"trained/*.png" 
